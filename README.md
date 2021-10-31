@@ -1,6 +1,6 @@
 # test_youtube_flutter
 
-A Demo flutter module project.
+Add To App flutter module project.
 
 ## Getting Started
 Please checkout the YoutubeInFlutterRepo first then checkout this repo we are using this flutter module as flutter add to app in android project 
