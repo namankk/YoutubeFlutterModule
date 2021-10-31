@@ -107,7 +107,7 @@ class _MyHomePageState extends State<MyHomePage> {
             ),
            InkWell(
              child:  Container(
-               child: Text("CLICK"),
+               child: Text("Show youtube screen"),
                height: 60,
                width: 60,
                color: Colors.red,
